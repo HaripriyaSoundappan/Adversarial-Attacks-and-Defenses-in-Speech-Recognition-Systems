@@ -1,0 +1,51 @@
+ID,Words/Phrases,Synonyms/Slangs,Severity
+0,kill,"['murder', 'slay', 'take out']",High
+1,attack,"['ambush', 'strike', 'raid']",High
+2,shoot,"['fire', 'blast']",High
+3,bomb,"['explode', 'detonate']",High
+4,destroy,"['ruin', 'demolish', 'wreck']",High
+5,stab,"['shank', 'poke', 'pierce']",High
+6,burn,"['torch', 'set fire']",High
+7,threaten,"['intimidate', 'bully']",Medium
+8,assault,"['beat up', 'hit', 'smack']",High
+9,harm,"['hurt', 'injure', 'damage']",Medium
+10,explode,"['blow up', 'burst']",High
+11,terrorize,"['scare', 'frighten']",High
+12,gun,"['piece', 'heat', 'gat']",Medium
+13,knife,"['blade', 'shiv']",Medium
+14,punch,"['sock', 'slug']",Medium
+15,choke,"['strangle', 'suffocate']",High
+16,kidnap,"['abduct', 'snatch']",High
+17,hijack,"['commandeer', 'seize']",High
+18,violence,"['aggression', 'brutality']",Medium
+19,blood,"['gore', 'bleed']",Medium
+20,murder,"['kill', 'execute']",High
+21,torture,"['torment', 'inflict pain']",High
+22,abuse,"['mistreat', 'molest']",High
+23,crush,"['squash', 'smash']",Medium
+24,kill you,"['end you', 'take you out']",High
+25,break you,"['crack you', 'shatter you']",Medium
+26,die,"['pass out', 'perish']",Medium
+27,beat you,"['whoop you', 'thrash you']",Medium
+28,smash,"['wreck', 'shatter']",Medium
+29,rip apart,"['tear up', 'dismantle']",High
+30,I'll end you,"[""you're done"", ""I'll finish you""]",High
+31,hit you,"['slap you', 'smack you']",Medium
+32,death,"['execution', 'passing']",High
+33,suffocate,"['choke', 'smother']",High
+34,poison,"['toxify', 'contaminate']",High
+35,trap you,"['corner you', 'ensnare you']",Medium
+36,shoot you,"['pop you', 'blast you']",High
+37,no mercy,"['no forgiveness', 'ruthless']",High
+38,get you,"['hunt you', 'come for you']",Medium
+39,take you down,"['bring you down', 'end you']",High
+40,dangerous,"['threatening', 'risky']",Medium
+41,kill them all,"['wipe them out', 'eliminate all']",High
+42,destroy everything,"['wreck all', 'tear down all']",High
+43,you’ll regret this,"['pay for this', 'suffer for this']",Medium
+44,I will hurt you,"[""I'm gonna hurt you"", ""I'll harm you""]",High
+45,I'm watching you,"['keeping an eye', 'spying']",Medium
+46,you're dead,"[""you're done"", ""you're finished""]",High
+47,blow it up,"['bomb it', 'explode it']",High
+48,threat,"['menace', 'danger']",Medium
+49,execute,"['eliminate', 'neutralize']",High
